@@ -1,4 +1,5 @@
 # ShadowsocksR Backups
+## This is a ShadowsocksR Backup repository. Forked from zyfworks/ssr-backup
 
 ## Server
 * ShadowsocksR-manyuser.zip - Python服务端，2017年7月27日傍晚版本，不含Git库
